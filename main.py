@@ -3,7 +3,6 @@ import time
 import random
 import copy
 
-import numpy as np
 import pygame
 
 pygame.init()
